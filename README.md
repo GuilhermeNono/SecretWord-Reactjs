@@ -1,5 +1,5 @@
 # 🔠Secret Word🔠
-## 📖 Descrição 
+## 📖 Description 
 <p>A game about finding a word developed in react.</p>
 
 ##
