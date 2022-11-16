@@ -18,7 +18,7 @@
 - End the game if you run out of lives.
 
 #
-
+<a href="https://nonosecretword.netlify.app">> DEMO</a>
 ![PlaceHolder](https://i.imgur.com/SOcW3CV.png)
 
 #
